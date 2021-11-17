@@ -1,0 +1,354 @@
+﻿Atlaua Kersey | BR1 | 183 | 7 8 6 10 6 | powerful resilient
+Shila | BR1 | 167.64 | 3 4 5 2 4 | indecisive complacent
+Xenith Nadeer | BR1 | 208.28 | 3 7 0 0 8 | resourceful 
+Eve Liedgenwiel | BR1 | 162.5 | 2 1 2 2 4 | unsuspecting resourceful
+Amber Greenhorn | BR1 | 167.6 | 5 8 4 5 6 | resourceful resilient
+Athina Hartmann | BR1 | 163 | 9 7 8 8 10 | complacent moody
+Callie Star | BR1 | 149.86 | 8 4 8 2 3 | resourceful chaotic
+Choriu Kuga | BR1 | 172.72 | 4 3 5 8 3 | unsuspecting moody
+Concordia Tallyrand | BR1 | 172 | 9 5 7 4 8 | clever 
+Dexter Hopkins | BR1 | 193 | 6 5 7 4 2 | efficient arrogant
+Evian Dream | BR1 | 158.4 | 6 4 6 4 7 | devious clever
+Funnygamermemes1337 | BR1 | 160.02 | 6 3 5 6 7 | clever arrogant
+Kinzoku Ayatsuri | BR1 | 187.96 | 3 4 3 7 3 | indecisive moody
+Major Major | BR1 | 168.91 | 8 6 5 4 3 | vigilant efficient
+McQueen | BR1 | 160.02 | 5 4 2 2 3 | unsuspecting 
+Origen | BR1 | 165.1 | 10 6 4 2 2 | devious clever
+Soren Oleander | BR1 | 185.42 | 7 4 8 2 9 | arrogant clever
+Takatobi Boeiburieka | BR1 | 200.6 | 8 13 7 9 10 | arrogant resilient
+Tetly Mendoza | BR1 | 170.18 | 8 5 8 3 5 | vigilant moody
+Cassia | VOD | 167.64 | 3 4 3 4 5 | moody chaotic
+Mascau | VOD | 182.88 | 7 6 6 4 6 | arrogant clever
+Myopia | VOD | 172.72 | 5 3 2 0 2 | complacent indecisive
+Aufhocker | VOD | 170.18 | 3 2 4 4 3 | indecisive unsuspecting
+Chalcedony | VOD | 162.56 | 6 4 6 2 5 | indecisive complacent
+Femi | VOD | 168.91 | 6 8 7 4 5 | efficient 
+Jessica | VOD | 185.42 | 7 8 5 8 9 | efficient moody
+Kalani | VOD | 195.58 | 5 7 4 8 4 | resilient powerful
+Korudo | VOD | 172.72 | 5 6 6 6 7 | moody vigilant
+Lily | VOD | 175.26 | 3 2 4 1 3 | complacent unsuspecting
+Orikata | VOD | 163.83 | 4 6 8 9 7 | vigilant moody
+Palvella | VOD | 177.8 | 5 6 8 4 5 | unsuspecting resourceful
+Renwick | VOD | 180.34 | 7 3 8 3 10 | vigilant clever
+Rudder | VOD | 172.72 | 5 6 5 6 6 | resourceful unsuspecting
+Scraps | VOD | 154.94 | 6 6 7 5 7 | resilient resourceful
+Stitch | VOD | 172.72 | 6 4 8 3 5 | resourceful 
+Yukimura Toshiko | BD | 163 | 2 7 4 5 3 | indecisive 
+Miyo the Almighty | BD | 178 | 5 4 7 5 9 | clever vigilant
+Zuri Kamau | BD | 169 | 7 8 5 10 8 | powerful resourceful
+Chisuto Goreya | BD | 160 | 3 2 8 2 6 | resilient indecisive
+Drew Faust | BD | 163 | 7 3 3 2 5 | unsuspecting indecisive
+Elsie Ziegler | BD | 170 | 6 3 3 7 6 | unsuspecting 
+Finnigan Faust | BD | 170 | 8 8 7 6 7 | resourceful arrogant
+Genko Akai | BD | 154 | 7 6 9 4 9 | vigilant clever
+Hiroyo Chijimatsu | BD | 210 | 4 7 2 3 10 | vigilant indecisive
+Katsuo Kimura | BD | 155 | 8 4 8 3 6 | efficient vigilant
+Kensuke Yamamoto | BD | 173 | 4 7 8 9 3 | complacent indecisive
+Kimura Fujimori | BD | 178 | 4 7 8 2 6 | complacent resourceful
+Oxalis | BD | 145 | 3 7 2 2 3 | clever resourceful
+Philo Silvestri | BD | 170 | 6 7 8 2 4 | clever unsuspecting
+Tate Barson | BD | 173 | 8 6 1 7 4 | moody indecisive
+Tsuyuki Aoyage | BD | 157 | 5 5 4 6 2 | vigilant 
+Zhǐ Ruò Jiāng | BD | 167 | 10 0 0 0 0 | resourceful resilient
+Minami Suzuki | DDE | 170.18 | 8 8 7 8 6 | resilient efficient
+Broadway Stringer | DDE | 170.18 | 6 8 5 6 4 | arrogant moody
+Fyodor Voronin | DDE | 193 | 7 7 8 6 9 | clever efficient
+Seong-hun Park | DDE | 177.8 | 3 6 9 8 8 | complacent resilient
+Ace Hauri | DDE | 190 | 9 6 7 9 6 | unsuspecting 
+Acedia Reed | DDE | 175 | 7 3 8 2 5 | clever devious
+Alessandra Valladares | DDE | 172.72 | 6 5 7 4 4 | resourceful devious
+Eden Cohen | DDE | 180 | 7 2 5 3 2 | moody devious
+Firstname Lastname | DDE | 187.96 | 8 7 5 4 6 | devious arrogant
+Jay Kenyatta | DDE | 172.72 | 3 2 5 1 10 | vigilant clever
+Knick Knack | DDE | 173 | 5 7 2 2 4 | unsuspecting chaotic
+Lyra Hernandez | DDE | 165.1 | 7 10 9 9 3 | vigilant resourceful
+Mellow Checkibell | DDE | 205.74 | 8 6 6 10 10 | arrogant moody
+Noor Malak | DDE | 165.1 | 6 5 8 2 4 | vigilant resourceful
+Osiris Oleander | DDE | 157.48 | 10 3 2 2 0 | efficient vigilant
+Peach Rose | DDE | 177.8 | 3 3 4 2 4 | indecisive moody
+Piper Kauffman | DDE | 165.1 | 6 5 7 7 6 | clever resourceful
+Raiko Hino | DDE | 172.72 | 7 6 5 7 5 | clever chaotic
+Thalamus | DDE | 182.88 | 8 4 2 5 3 | indecisive moody
+Suika Otokono | MCC | 185 | 6 3 4 3 7 | resourceful clever
+Aaron A. Adams | MCC | 182 | 1 2 4 2 2 | moody complacent
+Jade Aquarius | MCC | 170 | 3 3 3 5 5 | complacent 
+Noritaka Amari | MCC | 165 | 5 5 8 5 5 | efficient resilient
+Calliope Floros | MCC | 160 | 4 3 5 4 6 | complacent resourceful
+Cecilia Monroe | MCC | 180 | 2 4 3 6 5 | indecisive complacent
+Jordan McNamara | MCC | 178 | 9 7 5 9 7 | resourceful indecisive
+Kamisa Kokoro | MCC | 175 | 7 4 4 6 8 | arrogant unsuspecting
+Mireille Legault | MCC | 158 | 5 3 4 4 6 | devious moody
+Shortcaps | MCC | 94 | 5 5 3 1 7 | efficient clever
+TOKOMO | MCC | 173 | 7 4 5 5 7 | resourceful clever
+Wyn | MCC | 175 | 3 7 7 3 3 | clever vigilant
+Yami Itazura | MCC | 164 | 3 4 4 4 3 | arrogant moody
+Z | MCC | 157 | 5 5 7 4 4 | clever chaotic
+Zentako Fudoiji | MCC | 185 | 6 5 6 7 6 | arrogant powerful
+Zenzou Koizumi | MCC | 172 | 7 7 7 7 6 | resilient vigilant
+Tate Carson | CD | 181 | 8 9 3 6 5 | resilient resourceful
+Connor Byrne | CD | 177 | 3 7 10 10 7 | arrogant moody
+Yumena Ezura | CD | 172 | 8 4 4 7 10 | complacent arrogant
+Alexis Holland | CD | 163 | 1 3 4 2 4 | complacent vigilant
+Anda Serizawa | CD | 147 | 2 6 4 0 6 | resilient unsuspecting
+Daichi Wada | CD | 150 | 10 3 4 0 6 | resourceful moody
+Gryff Gabheart | CD | 203 | 6 7 4 8 6 | powerful unsuspecting
+Hideki Kishida | CD | 187 | 7 5 3 3 10 | efficient vigilant
+Intisar Ghazali | CD | 163 | 4 2 6 3 2 | vigilant moody
+Kotaro Daigo | CD | 188 | 5 7 9 2 5 | vigilant resourceful
+Medea Mavros | CD | 183 | 9 6 2 5 6 | resourceful moody
+Momoka Hiiragi | CD | 162 | 5 7 5 2 6 | complacent clever
+Naozumi Shimizu | CD | 178 | 4 4 8 2 7 | complacent clever
+Percy Fletcher | CD | 166 | 2 3 6 2 7 | unsuspecting resourceful
+Risa Forneo | CD | 173 | 4 8 6 4 8 | indecisive resilient
+S.B. | CD | 170 | 1 6 5 0 4 | moody vigilant
+Wylie Lovell | CD | 180 | 0 1 5 0 3 | complacent unsuspecting
+Unko Ara | SSS | 175 | 6 5 5 9 6 | devious chaotic
+Amber Dunst | SSS | 163 | 5 3 3 4 0 | moody chaotic
+Indigo Petropoulos | SSS | 190 | 8 5 5 10 10 | moody powerful
+Lt. Daron Simmons | SSS | 182 | 5 6 8 4 6 | resourceful vigilant
+Yuudai Nenosuke | SSS | 173 | 8 7 5 9 7 | unsuspecting resilient
+Alexis Dionne | SSS | 160 | 9 6 7 6 8 | moody arrogant
+Caity Scamp | SSS | 173 | 3 4 7 2 5 | vigilant clever
+Callie Santiago | SSS | 160 | 8 5 6 2 6 | devious arrogant
+Ezra Caravan | SSS | 155 | 5 8 2 2 4 | chaotic arrogant
+Fulmine Baleno | SSS | 178 | 9 6 5 4 8 | clever complacent
+Gemma Stone | SSS | 158 | 7 6 5 3 5 | resourceful 
+Jericho Arpeggio | SSS | 178 | 10 1 9 7 8 | chaotic devious
+Lady Luck | SSS | 142 | 7 5 5 1 9 | clever devious
+Mallard | SSS | 180 | 10 7 5 7 6 | resourceful efficient
+Manikyan Haque | SSS | 155 | 7 8 6 8 10 | chaotic resilient
+Medulla Esposito | SSS | 140 | 9 9 9 4 3 | clever efficient
+Souma Hayashi | SSS | 175 | 7 4 8 3 7 | clever efficient
+Szymon | SSS | 163 | 7 5 7 1 3 | devious unsuspecting
+Axle Thorne | MR | 182.88 | 7 5 8 7 5 | chaotic arrogant
+Valiant Victory | MR | 165.1 | 10 9 8 10 7 | vigilant powerful
+Yuzuki Ito | MR | 182.88 | 6 9 6 8 4 | resourceful resilient
+Axcel Tsukamoto | MR | 190.5 | 6 6 9 6 10 | powerful complacent
+Julian Delgado | MR | 187.96 | 4 4 5 3 4 | moody arrogant
+Maeve Verity | MR | 190.5 | 7 9 7 10 7 | powerful complacent
+Akiho Yamikawa | MR | 162.56 | 6 6 4 1 3 | moody clever
+Aurora Machiavelli | MR | 175.26 | 9 8 9 10 8 | powerful vigilant
+Jean-Philippe Boisset | MR | 175.26 | 3 3 5 1 5 | clever complacent
+Kimiko Fujimoto | MR | 180.34 | 8 6 4 9 9 | efficient powerful
+Lucina Ravenheart | MR | 160.02 | 7 8 6 1 1 | arrogant chaotic
+Matthew Feynman | MR | 175.26 | 3 4 1 0 7 | moody 
+Redd Wells | MR | 152.4 | 5 8 8 3 3 | moody resourceful
+Tessa Townsend | MR | 154.94 | 4 3 4 4 5 | vigilant unsuspecting
+Tomomi Sumitomo | MR | 147.32 | 6 4 2 1 3 | indecisive clever
+Waffles Frosty | MR | 162.56 | 8 8 7 7 8 | resourceful resilient
+4 | SOR | 167 | 6 5 4 0 4 | clever resilient
+Angelina Harper | SOR | 147 | 3 6 5 2 7 | indecisive unsuspecting
+Ariel Pearson | SOR | 185 | 8 6 4 7 7 | clever moody
+Aurora Goldman | SOR | 177 | 9 8 7 10 7 | resilient resourceful
+Grizella Heinrich | SOR | 178 | 7 6 7 4 6 | resourceful arrogant
+Hiromichi Kaiin | SOR | 170 | 2 3 0 1 1 | arrogant moody
+Lovelle Pankratz | SOR | 175 | 0 5 3 4 0 | indecisive unsuspecting
+Man. | SOR | 216 | 4 2 4 4 7 | indecisive resourceful
+Paint | SOR | 147 | 7 7 6 8 6 | moody chaotic
+Rowan Burke | SOR | 170 | 8 6 4 5 8 | devious arrogant
+Rumor Reaux | SOR | 153 | 8 8 8 7 3 | devious arrogant
+Ryōken Sumi | SOR | 157 | 6 3 4 4 7 | devious clever
+Sanne Elsinore | SOR | 158 | 9 6 3 4 7 | chaotic moody
+Subject 9 | SOR | 183 | 10 7 8 2 10 | vigilant clever
+Valentine Dionne | SOR | 165 | 3 5 7 5 7 | moody indecisive
+XxDoubtxX | SOR | 142 | 4 6 2 3 5 | chaotic devious
+Betsy | OTG | 130 | 5 3 4 0 1 | efficient clever
+Donna Fawkes | OTG | 170 | 8 6 5 1 3 | resourceful clever
+Michał Mikolajczyk | OTG | 196 | 6 9 6 8 7 | complacent powerful
+Midoriko Yuusha | OTG | 157 | 8 8 7 5 7 | vigilant powerful
+Molly Rath | OTG | 171 | 5 4 7 7 5 | efficient resourceful
+Barnaby | OTG | 180 | 7 5 6 7 3 | vigilant clever
+Blake Mikolajczyk | OTG | 183 | 9 8 7 10 9 | vigilant resourceful
+Carnival Valerini | OTG | 175 | 9 7 6 10 8 | arrogant powerful
+Taua Vainu'upo | OTG | 195 | 10 5 8 10 7 | powerful resourceful
+Yamato Warai | OTG | 188 | 3 6 6 9 7 | powerful 
+Alisha Delgado | OTG | 180 | 10 7 5 1 3 | resourceful unsuspecting
+Caraki Shirokara | OTG | 180 | 9 8 5 10 8 | powerful arrogant
+El Oso | OTG | 170 | 5 9 4 10 7 | vigilant moody
+Jordan Rosenbloom | OTG | 173 | 9 5 6 0 7 | arrogant devious
+Nikolaii | OTG | 162 | 1 5 2 2 2 | indecisive complacent
+Poppy Marigold | OTG | 147 | 1 3 8 0 5 | chaotic moody
+Rochelle Gladstone | OTG | 170 | 5 6 2 0 4 | indecisive 
+Shanti Biswas | OTG | 150 | 5 3 5 5 7 | resourceful vigilant
+Silky Chase | OTG | 160 | 5 8 6 4 3 | vigilant indecisive
+Tokigami | OTG | 158 | 5 6 8 2 5 | arrogant vigilant
+Madison Salt | BR2 | 152.4 | 3 5 5 0 4 | unsuspecting indecisive
+Anagram | BR2 | 185 | 10 5 7 10 5 | vigilant powerful
+Astianatte Lenzini | BR2 | 198 | 10 10 5 3 4 | resilient vigilant
+Asuka Fukada | BR2 | 160 | 1 4 6 3 4 | clever devious
+Captain Fellow | BR2 | 180 | 7 2 6 8 3 | unsuspecting resourceful
+Charlotte Winser | BR2 | 147 | 4 7 8 1 0 | resourceful clever
+Diane Walters | BR2 | 173 | 7 9 7 10 6 | resourceful powerful
+Ellery Mendaci | BR2 | 152.4 | 7 2 4 3 6 | indecisive complacent
+Frenchie French | BR2 | 157 | 7 4 9 7 4 | unsuspecting chaotic
+Olsen Finch | BR2 | 157 | 7 5 5 4 10 | vigilant clever
+Page Turner | BR2 | 165 | 10 5 8 4 4 | clever chaotic
+Penelope Lovell | BR2 | 180 | 10 8 9 4 9 | devious clever
+Penny Dreadful | BR2 | 182.88 | 10 4 6 7 2 | efficient clever
+Rebecca Carsel | BR2 | 160 | 8 4 9 8 2 | resourceful unsuspecting
+Ryker Wruck | BR2 | 152.4 | 9 9 7 6 0 | chaotic moody
+Salem Omelas | BR2 | 175 | 10 5 10 2 7 | efficient clever
+Taiko Tabi | BR2 | 170 | 6 3 3 7 4 | resilient 
+Wisteria Hawthorne | BR2 | 160 | 10 4 10 7 3 | resilient resourceful
+Minori Kita | SS | 174 | 8 8 8 8 8 | unsuspecting powerful
+Rikki Basurto | SS | 165 | 10 8 6 6 5 | vigilant resilient
+Corbin Corona | SS | 168 | 4 3 5 2 6 | indecisive vigilant
+Luden Frei | SS | 157 | 6 3 3 3 6 | indecisive arrogant
+Michiko Mori | SS | 163 | 8 4 5 2 3 | complacent indecisive
+Mihaela Florescu | SS | 163 | 7 5 6 10 8 | moody arrogant
+Nahe Zweite | SS | 168 | 8 5 7 3 1 | arrogant resourceful
+Ronnie Hammond | SS | 165 | 10 0 10 10 0 | powerful resourceful
+Som-Phong Bonmak | SS | 170 | 8 5 6 4 5 | clever complacent
+Teague Peader Ruadh | SS | 180 | 3 5 2 4 8 | devious arrogant
+Vale Eccke | SS | 165 | 6 9 4 3 5 | resilient indecisive
+Heartbeat | TR | 178 | 3 5 6 4 7 | chaotic devious
+Orion | TR | 203 | 8 6 4 8 4 | resilient vigilant
+Sonny Ito | TR | 168 | 5 5 5 5 5 | complacent unsuspecting
+Bartolomej Dudek | TR | 175 | 6 2 3 0 0 | complacent 
+Bessy Davis | TR | 153 | 5 2 8 0 2 | complacent devious
+Crilliant D. Spare | TR | 180 | 1 4 2 3 2 | complacent 
+Huomei One | TR | 186 | 10 2 8 10 8 | arrogant moody
+HyperText Emelle | TR | 208 | 6 6 5 9 7 | powerful arrogant
+Mindbender83 | TR | 182 | 5 5 6 5 9 | arrogant clever
+Nazz Kendra | TR | 165 | 7 6 5 9 5 | resilient moody
+Pollyanna Herringbone | TR | 147 | 2 2 5 1 4 | unsuspecting 
+Ryuunosuke Itou | TR | 182 | 4 5 5 7 6 | unsuspecting resilient
+Scarlet Northcott | TR | 191 | 9 3 6 3 7 | efficient moody
+Scope | TR | 160 | 6 4 7 4 5 | unsuspecting vigilant
+Shimomi Hizawa | TR | 153 | 5 4 8 2 8 | vigilant clever
+Sotry | TR | 165 | 4 4 3 3 4 | unsuspecting complacent
+Tabloid Star | TR | 155 | 7 3 6 3 6 | arrogant resourceful
+Vermillion Alacasti | TR | 172 | 7 4 5 2 7 | clever resourceful
+Vico Arcuri | TR | 175 | 4 4 5 4 6 | clever vigilant
+Claude McGill | PI | 185.42 | 9 5 6 9 6 | efficient indecisive
+Clove Apoloozy | PI | 162.56 | 6 5 8 7 5 | resilient clever
+Scooter | PI | 190.5 | 5 8 8 6 8 | devious clever
+DJ Waves | PI | 185.42 | 6 2 10 6 9 | complacent 
+Vuković Balša | PI | 193.04 | 3 1 1 1 0 | indecisive complacent
+Aimi Saito | PI | 152.4 | 6 4 8 3 6 | unsuspecting vigilant
+Amoré | PI | 165.1 | 1 3 4 3 7 | unsuspecting indecisive
+Cecile Leblanc | PI | 160.02 | 8 7 6 2 4 | resourceful arrogant
+Charleston Charming | PI | 157.48 | 3 3 3 3 10 | complacent resourceful
+Cinon Moreau | PI | 137.16 | 8 1 7 3 6 | efficient clever
+Daly | PI | 210.82 | 3 5 0 8 0 | unsuspecting resilient
+Fern Di'Nand | PI | 162.56 | 3 8 6 9 4 | unsuspecting resourceful
+Gaz Berry | PI | 182.88 | 9 6 5 4 7 | arrogant vigilant
+Glacia Whittingale | PI | 180.34 | 7 9 6 4 7 | clever vigilant
+Indiana Adkison | PI | 167.64 | 4 3 6 2 4 | clever vigilant
+Kingston Olayinka | PI | 210.82 | 5 4 9 6 7 | moody efficient
+Noah Gabheart | PI | 177.8 | 10 8 9 7 4 | resourceful complacent
+Arashi Tatsuko | SCP | 172.72 | 6 5 4 9 8 | moody resilient
+Colorado Rivers | SCP | 187.96 | 7 7 8 8 9 | unsuspecting devious
+Gintarou Himitsuko | SCP | 165.1 | 5 6 3 1 8 | efficient unsuspecting
+Belladonna Ojeda | SCP | 200.66 | 7 8 4 3 8 | resourceful efficient
+Bonnie Clawde | SCP | 175.26 | 7 8 8 7 7 | resourceful efficient
+Cato Hutchings | SCP | 172.72 | 5 2 0 2 0 | clever arrogant
+Hilda Kneller | SCP | 160.02 | 7 3 4 8 4 | chaotic 
+Kinnojo Kagiyama | SCP | 180.34 | 2 2 0 5 0 | unsuspecting indecisive
+Kyouko Okada | SCP | 160.02 | 8 7 5 7 7 | powerful vigilant
+Phoenix Wong | SCP | 185.42 | 0 2 0 0 0 | chaotic devious
+Rosalie Adams | SCP | 175.26 | 8 9 6 8 4 | unsuspecting resilient
+Ryo Ito | SCP | 165.1 | 5 6 6 1 9 | clever devious
+Officer 0061-X | SAPP | 167.64 | 4 7 5 3 5 | vigilant 
+John Crook | SAPP | 180.34 | 2 8 2 6 4 | resilient unsuspecting
+Mami Hattori | SAPP | 200.66 | 2 4 4 2 2 | unsuspecting 
+Phillip "Flipswitch" Li | SAPP | 175.26 | 8 5 7 7 6 | arrogant 
+The Jeanman | SAPP | 193.04 | 9 8 7 10 4 | moody arrogant
+Boss | SAPP | 149.86 | 7 8 7 0 0 | devious chaotic
+Casey Pollock | SAPP | 172.72 | 8 6 7 4 6 | resourceful efficient
+Diana Kelsey | SAPP | 162.56 | 8 7 3 3 7 | resilient 
+Fernando de Cortés y Guerrero | SAPP | 190.5 | 7 7 3 6 5 | vigilant 
+Mary Tesseract | SAPP | 162.56 | 4 3 1 3 7 | vigilant clever
+Mitsu "Hermes" Nomura | SAPP | 157.48 | 7 8 6 3 6 | clever 
+Moxie Divine | SAPP | 172.72 | 8 7 3 5 9 | vigilant clever
+Nine Lives | SAPP | 175.26 | 9 5 4 7 10 | chaotic devious
+Pestläkare | SAPP | 160.02 | 8 4 4 4 7 | clever vigilant
+Screenburn | SAPP | 175.26 | 6 5 7 6 9 | efficient 
+The Virus | SAPP | 157.48 | 6 6 1 7 2 | chaotic devious
+xX_RAD1CALR0DENT_Xx | SAPP | 175.26 | 6 0 7 1 9 | clever devious
+Zap! | SAPP | 196 | 8 10 8 7 7 | powerful resilient
+110 | TAD | 170 | 3 6 4 1 2 | indecisive clever
+Alandra Pereira | TAD | 165 | 8 6 5 3 5 | resourceful 
+Caleb Merriweather | TAD | 175 | 7 5 7 8 5 | unsuspecting 
+Datos Leed | TAD | 170 | 2 3 4 1 2 | indecisive 
+Elizabeth Madison | TAD | 180 | 8 8 4 6 3 | resilient chaotic
+Filippo Giusti | TAD | 185 | 9 8 4 9 5 | vigilant resourceful
+Joseph Pascal | TAD | 185 | 6 5 8 2 6 | vigilant complacent
+Levi Laundry | TAD | 180 | 6 10 5 4 2 | resourceful unsuspecting
+Mae Wilfret | TAD | 183 | 5 6 8 8 8 | efficient 
+Nobusawa Takeji | TAD | 203 | 10 5 8 10 6 | vigilant resourceful
+Seiji Wenshou | TAD | 159 | 6 5 7 4 6 | resourceful vigilant
+A10 | SDS | 163 | 8 2 7 4 6 | vigilant 
+Dick Shimmer | SDS | 194 | 6 5 8 6 7 | vigilant arrogant
+Doll Dahlia | SDS | 170 | 1 4 9 6 6 | clever complacent
+EX-00 xDustx | SDS | 180 | 5 6 8 3 7 | clever 
+Jack Wendell | SDS | 170 | 9 4 5 3 4 | moody devious
+Nmuade Marasq | SDS | 210 | 10 6 8 7 4 | efficient chaotic
+Prinxi Fixxen | SDS | 183 | 1 0 3 5 9 | resourceful unsuspecting
+Quando Norlic | SDS | 173 | 7 8 8 5 5 | devious chaotic
+Relfye Naftis | SDS | 188 | 5 8 4 9 3 | indecisive vigilant
+Thea Feynman | SDS | 153 | 7 8 2 3 0 | unsuspecting 
+Theo Martin | SDS | 168 | 6 2 9 4 0 | unsuspecting 
+Trozza Xerdat | SDS | 150 | 7 4 9 3 4 | clever resourceful
+Darcy Kazemi-Kaplan | FATE | 193 | 5 5 8 7 9 | unsuspecting resourceful
+Deirdre Castillo | FATE | 170 | 7 6 5 5 7 | clever unsuspecting
+Felix Merrit | FATE | 180 | 3 3 9 6 8 | vigilant 
+Hiromi Suzuki | FATE | 170 | 4 7 7 5 9 | powerful resilient
+Justice Fairwright | FATE | 171 | 9 6 5 4 4 | arrogant vigilant
+Kisa Lachman | FATE | 152.4 | 9 7 5 9 5 | vigilant powerful
+Neriku Yamamoto | FATE | 172 | 7 5 9 5 7 | resourceful clever
+Raika Shimamori | FATE | 145 | 9 7 7 5 5 | resourceful moody
+Reinhart Roberts | FATE | 178 | 7 7 7 7 7 | vigilant arrogant
+Ritz Kanpan | FATE | 162 | 4 6 8 7 2 | chaotic unsuspecting
+Sydney Valentine | FATE | 147 | 4 8 7 4 5 | resourceful indecisive
+Travis Meteor | FATE | 172 | 7 9 7 6 4 | efficient unsuspecting
+xX_furrybait_Xx | FATE | 185 | 2 3 5 10 9 | arrogant complacent
+Zacharias Kurosawa | FATE | 172 | 7 5 4 6 4 | vigilant 
+Ælfthryth Sunniva | CCC | 175 | 9 9 6 8 10 | resourceful unsuspecting
+Alarm-chan | CCC | 157 | 7 3 4 1 0 | unsuspecting 
+Azumm | CCC | 188 | 8 6 4 6 8 | resourceful clever
+Dorothea Mondegreen | CCC | 193 | 8 6 8 3 7 | arrogant resourceful
+Emcee | CCC | 178 | 6 10 6 1 7 | unsuspecting clever
+Francesco Stiner | CCC | 145 | 5 8 3 3 2 | efficient moody
+Guy Hays | CCC | 168 | 5 4 7 4 5 | chaotic resourceful
+Jacqueline Knox | CCC | 183 | 7 9 3 7 7 | vigilant resilient
+Mikhail Borisov | CCC | 200 | 10 6 9 10 8 | arrogant powerful
+Nahuicacalotl | CCC | 170 | 3 4 8 5 8 | devious clever
+Nora Borealis | CCC | 173 | 9 8 6 8 5 | efficient resilient
+Nyx | CCC | 170 | 9 8 6 5 4 | clever unsuspecting
+Richard Holder | CCC | 168 | 6 5 7 5 6 | resilient moody
+Sigma Tellurio | CCC | 208 | 8 6 6 10 7 | vigilant powerful
+Urso Valdavinos | CCC | 163 | 3 6 7 7 6 | resourceful complacent
+VAL 96-US-2001-1.12.5 | CCC | 175 | 8 6 7 5 5 | unsuspecting efficient
+Christian Viklund | HHH | 160 | 7 3 5 4 6 | arrogant 
+Clementine | HHH | 188 | 6 7 6 4 8 | vigilant arrogant
+Coda Dastiyari | HHH | 178 | 8 7 5 6 5 | chaotic vigilant
+Garg N. Tuandong | HHH | 169 | 8 4 7 1 1 | clever arrogant
+Gregor Shortfield | HHH | 157 | 6 2 4 8 3 | arrogant devious
+Huey Goode-Meowning | HHH | 175 | 5 5 5 5 5 | unsuspecting clever
+KY-0 | HHH | 195 | 9 5 5 9 7 | chaotic devious
+Mark Lin | HHH | 170 | 2 6 5 0 8 | efficient resilient
+Oliver McKenzie | HHH | 191 | 5 7 8 10 10 | vigilant powerful
+Prosper Love | HHH | 168 | 8 4 5 6 9 | arrogant moody
+Rey Fairwood | HHH | 178 | 7 7 4 8 5 | efficient resourceful
+Roger Rica-Radcliffe | HHH | 203 | 8 7 6 8 10 | efficient resilient
+Sylmair Olothana | HHH | 201 | 7 5 6 3 8 | clever efficient
+Tadaaki Arimachi | HHH | 180 | 8 7 4 8 7 | resilient arrogant
+Travis Eisenstaedt | HHH | 168 | 7 2 6 6 4 | arrogant devious
+Vincent de Montravel | HHH | 175 | 9 3 6 2 5 | arrogant moody
+Aika Azuuki | DRPG | 152.4 | 4 3 4 5 5 | resilient complacent
+Haruka Shida | DRPG | 165.1 | 6 5 6 7 5 | efficient 
+Hiromichi Raito | DRPG | 187.96 | 9 5 7 7 10 | moody arrogant
+Hiroto Tsurara | DRPG | 177.8 | 6 7 4 7 5 | chaotic 
+Jabilo Kubutsu | DRPG | 165.1 | 3 2 4 2 4 | resourceful clever
+Kane Soga | DRPG | 154.94 | 8 5 7 4 6 | devious chaotic
+Kioshi Shimizu | DRPG | 180.34 | 4 3 5 2 3 | resourceful clever
+Madoka Shirasaki | DRPG | 170.18 | 9 7 3 4 5 | arrogant moody
+Mariko Mori | DRPG | 172.72 | 2 3 3 2 5 | complacent indecisive
+Nozara Shige | DRPG | 177.8 | 4 3 3 2 5 | efficient 
+Okiniri Hanaka | DRPG | 165.1 | 5 6 4 2 4 | arrogant complacent
+Ryuuji Umemori | DRPG | 175.26 | 5 3 4 3 6 | efficient 
+Saruhiko Kizuguchi | DRPG | 200.66 | 1 1 1 1 1 | indecisive 
+Shigeru Kiyoshita | DRPG | 167.64 | 6 4 4 3 10 | complacent vigilant
+Taisuke Adachi | DRPG | 157.48 | 5 6 5 6 5 | resourceful powerful
+Verity Spinelli | DRPG | 165.1 | 7 6 8 4 5 | chaotic unsuspecting
