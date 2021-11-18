@@ -133,5 +133,9 @@ short Player::statSum() {
 }
 
 std::string Player::to_string() {
+#ifdef __linux__
+	return fmt::format("{} | {} | {} {} {} {} {}", name, height, srv, rec, set, spk, blk);
+#elif _WIN32
 	return std::format("{} | {} | {} {} {} {} {}", name, height, srv, rec, set, spk, blk);
+#endif
 }

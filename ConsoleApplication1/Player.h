@@ -2,7 +2,11 @@
 #include <string>
 #include <cstdarg>
 #include <algorithm>
+#ifdef __linux__ 
+#include <libfmt>
+#elif _WIN32
 #include <format>
+#endif
 #include "./RandomEngine.h"
 
 class Player {

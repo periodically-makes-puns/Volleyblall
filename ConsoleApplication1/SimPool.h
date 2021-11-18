@@ -1,5 +1,5 @@
 #pragma once
-#define REPS 100
+#define REPS 1000
 
 #include "Game.h"
 #include <vector>
