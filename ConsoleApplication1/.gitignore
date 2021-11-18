@@ -1,0 +1,4 @@
+*.o
+Sims
+*.csv
+.depend

@@ -1,18 +1,35 @@
 #include "Player.h"
 
 inline short bound(short v) {
+	#ifdef _WIN32
 	return (0i16 < v) ? ((v < 10i16) ? v : 10i16) : 0i16;
+	#elif __linux__
+	return (0 < v) ? ((v < 10) ? v : 10) : 0;
+	#endif
 }
 
 Player::Player(const std::string& statline, RandomEngine* engine) {
 	char trait1[20], trait2[20], name[120];
 
 	this->rng = engine;
-
+	#ifdef _WIN32
 	sscanf_s(statline.c_str(), 
+	#elif __linux__
+	sscanf(statline.c_str(),
+	#endif
 		"%119[^|]| %*[^|]| %lf | %hd %hd %hd %hd %hd | %19s %19s", 
-		name, 119, &this->height, &this->srv, &this->rec, &this->set, 
-		&this->spk, &this->blk, trait1, 19, trait2, 19);
+		#ifdef _WIN32
+		name, 119, 
+		#elif __linux__
+		name,
+		#endif
+		&this->height, &this->srv, &this->rec, &this->set, 
+		&this->spk, &this->blk, 
+		#ifdef _WIN32
+		trait1, 19, trait2, 19);
+		#elif __linux__
+		trait1, trait2);
+		#endif
 	this->clear_mods();
 	this->buff = 0;
 	name[119] = trait1[19] = trait2[19] = '\0';
@@ -52,7 +69,7 @@ Player::Player(const std::string& statline, RandomEngine* engine) {
 	}
 }
 
-inline void Player::clear_mods() {
+void Player::clear_mods() {
 	this->mSrv = this->mRec = this->mSet = this->mSpk = this->mBlk = 0;
 }
 
@@ -114,9 +131,9 @@ int Player::roll_pss(short mod, double hd) {
 	if (hd < 0) hd = 0;
 	short skill = bound(mod);
 	int weights[5] = { 
-		10 - mod, 
-		mod, 
-		(hd * hd) / 100,
+		10 - skill, 
+		skill, 
+		(int) ((hd * hd) / 100.0),
 		(this->powerful) ? 3 : 0,
 		(this->clever) ? 3 : 0 
 	};

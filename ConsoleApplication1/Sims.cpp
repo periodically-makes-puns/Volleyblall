@@ -28,8 +28,10 @@ int main() {
 	SimPool pool(players);
 
 	for (int i = 0; i < N; i++)
-		for (int j = i + 1; j < N; j++)
-			pool.add_job(SimPool::Job(i, j));
+		for (int j = i + 1; j < N; j++) {
+			SimPool::Job job = {i, j};
+			pool.add_job(job);
+		}
 
 	pool.shutdown();
 

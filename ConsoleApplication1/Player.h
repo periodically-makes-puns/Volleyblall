@@ -3,7 +3,7 @@
 #include <cstdarg>
 #include <algorithm>
 #ifdef __linux__ 
-#include <libfmt>
+#include <fmt/format.h>
 #elif _WIN32
 #include <format>
 #endif
@@ -12,7 +12,7 @@
 class Player {
 public:
 	Player(const std::string& statline, RandomEngine* rng);
-	inline void clear_mods();
+	void clear_mods();
 	int roll_srv();
 	int roll_rec(short mod, bool is_wipe);
 	int roll_set(short mod, bool allow_devious);

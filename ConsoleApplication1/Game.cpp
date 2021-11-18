@@ -140,7 +140,7 @@ bool Game::run_match() {
 		for (int i = 0; i < 5; i++)
 			arrogantMods[1][i] = rng->getReal() * 4;
 	}
-	/*p1->srv -= arrogantMods[0][0];
+	p1->srv -= arrogantMods[0][0];
 	p1->rec -= arrogantMods[0][1];
 	p1->set -= arrogantMods[0][2];
 	p1->spk -= arrogantMods[0][3];
@@ -149,14 +149,14 @@ bool Game::run_match() {
 	p2->rec -= arrogantMods[1][1];
 	p2->set -= arrogantMods[1][2];
 	p2->spk -= arrogantMods[1][3];
-	p2->blk -= arrogantMods[1][4];*/
+	p2->blk -= arrogantMods[1][4];
 	while (max(s1, s2) < 2) {
 		bool server = setNum % 2;
 		//if (setNum == 2) server = (short)(TableUtil::getReal() * 2);
 		(this->run_set(server)) ? s1++ : s2++;
 		setNum++;
 	}
-	/*p1->srv += arrogantMods[0][0];
+	p1->srv += arrogantMods[0][0];
 	p1->rec += arrogantMods[0][1];
 	p1->set += arrogantMods[0][2];
 	p1->spk += arrogantMods[0][3];
@@ -165,6 +165,6 @@ bool Game::run_match() {
 	p2->rec += arrogantMods[1][1];
 	p2->set += arrogantMods[1][2];
 	p2->spk += arrogantMods[1][3];
-	p2->blk += arrogantMods[1][4]; */
+	p2->blk += arrogantMods[1][4];
 	return s1 > s2;
 }
